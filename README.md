@@ -8,6 +8,3 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekdns-08&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdns-08&layout=compact&theme=tokyonight)
